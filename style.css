@@ -1,7 +1,7 @@
 h1 {
     padding: 10px;
-    margin: 50px;
-    font-size: 50px;
+    margin: 80px;
+    font-size: 80px;
     background-color: #2d539a;
     text-align: center;
     color:#ffcc0c;
@@ -61,7 +61,7 @@ padding: 5px;
 }
 
 ul {
-    font-size: 20px;
+    font-size: 90px;
 }
 
 .all_pokemon_container {
@@ -78,7 +78,7 @@ ul {
 }
 
 footer {
-    font-size: 26px;
+    font-size: 56px;
     color: rgba(245, 245, 245, 0.701)
     font-weight: 0;
     padding: 45px;
