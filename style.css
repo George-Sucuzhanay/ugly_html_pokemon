@@ -10,7 +10,7 @@ h1 {
 body {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
-    
+
     background-color: black;
     color: white;
     
@@ -21,8 +21,9 @@ body {
 }
 #starters_image_div img{
 
-border: 20px #2d539a solid;
-padding: 5px;
+    border: 20px #2d539a solid;
+    
+    padding: 1px;
 }
 .list p {
     font-size: 30px;
@@ -34,6 +35,7 @@ padding: 5px;
 #bulbasaur_container {
     background-color: #8cc58e;
     text-align: left;
+    
     padding:20px;
     border: 	#faeca4 solid 2.5px;
     border-radius: 15px;
@@ -41,7 +43,7 @@ padding: 5px;
 #charmander_container {
     background-color: #f4b282;
     border: 	#faeca4 solid 2.5px;
-    border-radius: 15px;
+    border-radius: 7px;
     text-align: left;
     padding: 25px;
 }
@@ -56,7 +58,7 @@ padding: 5px;
 
 .pokemon_names {
     text-align:left; 
-    font-size: 25px;
+    font-size: 15px;
     margin-top: 35px;
 }
 
@@ -68,7 +70,7 @@ ul {
     text-align: center;
 }
 .pokemon_description {
-    font-weight: 900;
+    font-weight: 200;
     
     text-align: left;
     
@@ -78,9 +80,9 @@ ul {
 }
 
 footer {
-    font-size: 56px;
+    font-size: 16px;
     color: rgba(245, 245, 245, 0.701)
     font-weight: 0;
-    padding: 45px;
+    padding: 85px;
     
 }
